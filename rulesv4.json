@@ -1,0 +1,2460 @@
+{
+  "generated_at": "2026-03-24T23:03:35+00:00",
+  "version": "T17",
+  "page_count": 180,
+  "params": {
+    "allowed_letters": [
+      "I",
+      "E",
+      "A",
+      "G",
+      "R",
+      "T",
+      "L",
+      "C"
+    ],
+    "digits": 3,
+    "header_frac": 0.08,
+    "footer_frac": 0.08,
+    "left_margin_frac": 0.25
+  },
+  "rules": {
+    "E101": {
+      "start": {
+        "page": 29,
+        "x0": 36.0,
+        "y_center": 619.5709228515625,
+        "heading": "E101 *Personal safety comes first. All team members must observe the following safety practices"
+      },
+      "range": {
+        "start_page": 29,
+        "end_page": 30
+      }
+    },
+    "E102": {
+      "start": {
+        "page": 30,
+        "x0": 36.0,
+        "y_center": 343.8809814453125,
+        "heading": "E102 *Be Nice. All participants should strive to be gracious and professional at all times while attending a"
+      },
+      "range": {
+        "start_page": 30,
+        "end_page": 31
+      }
+    },
+    "E103": {
+      "start": {
+        "page": 31,
+        "x0": 36.0,
+        "y_center": 163.7309799194336,
+        "heading": "E103 *Children with adults, please. Children under 12 must be accompanied in the pits by an adult at all"
+      },
+      "range": {
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    "E104": {
+      "start": {
+        "page": 31,
+        "x0": 36.0,
+        "y_center": 198.77095794677734,
+        "heading": "E104 *Respect the venue. Teams may not damage the venue, including but not limited to bleachers, floors,"
+      },
+      "range": {
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    "E105": {
+      "start": {
+        "page": 31,
+        "x0": 36.0,
+        "y_center": 248.3309555053711,
+        "heading": "E105 *Teams must check in. An adult team member must check in at the Pit Administration station, or the"
+      },
+      "range": {
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    "E106": {
+      "start": {
+        "page": 31,
+        "x0": 36.0,
+        "y_center": 318.3209533691406,
+        "heading": "E106 *Event resources are for competing teams only. Only teams registered for an event may use that"
+      },
+      "range": {
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    "E107": {
+      "start": {
+        "page": 31,
+        "x0": 36.0,
+        "y_center": 382.4009704589844,
+        "heading": "E107 *Practice only when/where permitted. Teams may only practice with their ROBOT in their pit space, in"
+      },
+      "range": {
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    "E108": {
+      "start": {
+        "page": 31,
+        "x0": 36.0,
+        "y_center": 521.5009765625,
+        "heading": "E108 *Work in designated areas only. At the event venue, teams may only produce FABRICATED ITEMS as"
+      },
+      "range": {
+        "start_page": 31,
+        "end_page": 31
+      }
+    },
+    "E109": {
+      "start": {
+        "page": 31,
+        "x0": 36.0,
+        "y_center": 649.5709228515625,
+        "heading": "E109 *Some things do not belong at events. Do not bring or use the following:"
+      },
+      "range": {
+        "start_page": 31,
+        "end_page": 32
+      }
+    },
+    "E110": {
+      "start": {
+        "page": 32,
+        "x0": 36.0,
+        "y_center": 132.29097747802734,
+        "heading": "E110 *Do not arrange for additional utilities. Do not arrange for power, internet access, or phone lines from"
+      },
+      "range": {
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    "E111": {
+      "start": {
+        "page": 32,
+        "x0": 36.0,
+        "y_center": 181.7309799194336,
+        "heading": "E111 *Do not sell stuff. Teams may not conduct sales at an event. This includes, but is not limited to, raffle"
+      },
+      "range": {
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    "E112": {
+      "start": {
+        "page": 32,
+        "x0": 36.0,
+        "y_center": 231.29097747802734,
+        "heading": "E112 *Make FIRST loud, but with restrictions. Do not invite or bring live bands to play in the audience. Do not"
+      },
+      "range": {
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    "E113": {
+      "start": {
+        "page": 32,
+        "x0": 36.0,
+        "y_center": 266.3609924316406,
+        "heading": "E113 *Hang banners with care. Be respectful when hanging your banners."
+      },
+      "range": {
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    "E114": {
+      "start": {
+        "page": 32,
+        "x0": 36.0,
+        "y_center": 469.42095947265625,
+        "heading": "E114 *Limit flag and flagpole size if used in the ARENA. Flags and flagpoles may not be of unreasonable"
+      },
+      "range": {
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    "E115": {
+      "start": {
+        "page": 32,
+        "x0": 36.0,
+        "y_center": 558.94091796875,
+        "heading": "E115 *No firearms or other weapons. Firearms or other weapons are prohibited at all FIRST events for all"
+      },
+      "range": {
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    "E116": {
+      "start": {
+        "page": 32,
+        "x0": 36.0,
+        "y_center": 623.0509033203125,
+        "heading": "E116 *Inspection required for practice FIELD access. A team may only use a practice FIELD with a ROBOT"
+      },
+      "range": {
+        "start_page": 32,
+        "end_page": 32
+      }
+    },
+    "E117": {
+      "start": {
+        "page": 32,
+        "x0": 36.0,
+        "y_center": 672.6109619140625,
+        "heading": "E117 *Do not record anyone at the event without their consent. Do not record interactions with anyone at an"
+      },
+      "range": {
+        "start_page": 32,
+        "end_page": 33
+      }
+    },
+    "E301": {
+      "start": {
+        "page": 33,
+        "x0": 36.0,
+        "y_center": 352.6409606933594,
+        "heading": "E301 *No wireless communication. Teams may not set up their own Wi-Fi (802.11a/b/g/n/ac/ax/be)"
+      },
+      "range": {
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    "E302": {
+      "start": {
+        "page": 33,
+        "x0": 36.0,
+        "y_center": 547.3009033203125,
+        "heading": "E302 *Don’t interfere with wireless networks. Participants may not interfere, attempt to interfere, or attempt"
+      },
+      "range": {
+        "start_page": 33,
+        "end_page": 33
+      }
+    },
+    "E501": {
+      "start": {
+        "page": 34,
+        "x0": 36.0,
+        "y_center": 473.1409606933594,
+        "heading": "E501 *Pits are unavailable if closed. Teams may not access their pit area outside the designated hours."
+      },
+      "range": {
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    "E502": {
+      "start": {
+        "page": 34,
+        "x0": 36.0,
+        "y_center": 493.54095458984375,
+        "heading": "E502 *Stay in your pit. Teams should set up their allowed equipment fully within their assigned pit space."
+      },
+      "range": {
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    "E503": {
+      "start": {
+        "page": 34,
+        "x0": 36.0,
+        "y_center": 592.6609497070312,
+        "heading": "E503 *Keep aisles clear. Aisles must be kept clear."
+      },
+      "range": {
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    "E504": {
+      "start": {
+        "page": 34,
+        "x0": 36.0,
+        "y_center": 613.2109375,
+        "heading": "E504 *No sparks or flames. Tools that throw sparks or produce open flames are prohibited."
+      },
+      "range": {
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    "E505": {
+      "start": {
+        "page": 34,
+        "x0": 36.0,
+        "y_center": 673.69091796875,
+        "heading": "E505 *Nothing too big. Floor standing power tools are prohibited."
+      },
+      "range": {
+        "start_page": 34,
+        "end_page": 34
+      }
+    },
+    "E506": {
+      "start": {
+        "page": 34,
+        "x0": 36.0,
+        "y_center": 719.7669677734375,
+        "heading": "E506 *No brazing or welding. Brazing/welding is prohibited."
+      },
+      "range": {
+        "start_page": 34,
+        "end_page": 35
+      }
+    },
+    "E507": {
+      "start": {
+        "page": 35,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "E507 *Solder with specific tools only. Soldering may be done using an electric iron/gun only."
+      },
+      "range": {
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    "E508": {
+      "start": {
+        "page": 35,
+        "x0": 36.0,
+        "y_center": 117.77095794677734,
+        "heading": "E508 *Structures must be safe. Teams may not build any structure that supports the weight of people or"
+      },
+      "range": {
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    "E509": {
+      "start": {
+        "page": 35,
+        "x0": 36.0,
+        "y_center": 167.2109603881836,
+        "heading": "E509 *Secure team identification assets. Team signs, flags, and displays must be securely mounted to the"
+      },
+      "range": {
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    "E510": {
+      "start": {
+        "page": 35,
+        "x0": 36.0,
+        "y_center": 202.25093841552734,
+        "heading": "E510 *Only use aerosol or other chemicals with noxious fumes in approved areas. Any aerosol or chemical"
+      },
+      "range": {
+        "start_page": 35,
+        "end_page": 35
+      }
+    },
+    "E601": {
+      "start": {
+        "page": 36,
+        "x0": 36.0,
+        "y_center": 184.37093353271484,
+        "heading": "E601 *Carts must be safe and easy to use. Carts must be easy to control, maneuver, and pose no risk to"
+      },
+      "range": {
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    "E602": {
+      "start": {
+        "page": 36,
+        "x0": 36.0,
+        "y_center": 219.41097259521484,
+        "heading": "E602 *Carts should not be too big. Carts must fit through a standard 30-inch door."
+      },
+      "range": {
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    "E603": {
+      "start": {
+        "page": 36,
+        "x0": 36.0,
+        "y_center": 239.9309310913086,
+        "heading": "E603 *Carts cannot park anywhere. Carts must remain in the team pit (or other venue designated cart"
+      },
+      "range": {
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    "E604": {
+      "start": {
+        "page": 36,
+        "x0": 36.0,
+        "y_center": 275.0009460449219,
+        "heading": "E604 *No noisy carts. Carts may not be equipped with music or other sound-generating devices."
+      },
+      "range": {
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    "E605": {
+      "start": {
+        "page": 36,
+        "x0": 36.0,
+        "y_center": 295.5209655761719,
+        "heading": "E605 *No motor driven carts. ROBOT carts may not use powered propulsion."
+      },
+      "range": {
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    "E701": {
+      "start": {
+        "page": 36,
+        "x0": 36.0,
+        "y_center": 458.740966796875,
+        "heading": "E701 *Quiet in the pits during ceremonies. During ceremonies outside of Playoff MATCHES, team members"
+      },
+      "range": {
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    "E702": {
+      "start": {
+        "page": 36,
+        "x0": 36.0,
+        "y_center": 557.740966796875,
+        "heading": "E702 *Pit person limit during ceremonies is 5. No more than 5 team members may be in the pits during"
+      },
+      "range": {
+        "start_page": 36,
+        "end_page": 36
+      }
+    },
+    "E703": {
+      "start": {
+        "page": 36,
+        "x0": 36.0,
+        "y_center": 670.3309326171875,
+        "heading": "E703 *Be respectful during anthems. Team members, including any remaining in the pits, should exhibit"
+      },
+      "range": {
+        "start_page": 36,
+        "end_page": 37
+      }
+    },
+    "E801": {
+      "start": {
+        "page": 37,
+        "x0": 36.0,
+        "y_center": 120.41097259521484,
+        "heading": "E801 *No saving seats. Teams are not permitted to save or designate seats for team members that are not"
+      },
+      "range": {
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    "E802": {
+      "start": {
+        "page": 37,
+        "x0": 36.0,
+        "y_center": 288.44097900390625,
+        "heading": "E802 *No throwing items from the stands. Items may not be thrown from the audience seating."
+      },
+      "range": {
+        "start_page": 37,
+        "end_page": 37
+      }
+    },
+    "A201": {
+      "start": {
+        "page": 43,
+        "x0": 36.0,
+        "y_center": 279.92095947265625,
+        "heading": "A201 *Team PORTFOLIOS have limits. Teams have the opportunity to submit a team PORTFOLIO to be used"
+      },
+      "range": {
+        "start_page": 43,
+        "end_page": 44
+      }
+    },
+    "A202": {
+      "start": {
+        "page": 44,
+        "x0": 36.0,
+        "y_center": 277.4009704589844,
+        "heading": "A202 *PORTFOLIOS must be submitted on time and as requested. Teams must submit their PORTFOLIO as"
+      },
+      "range": {
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    "A203": {
+      "start": {
+        "page": 44,
+        "x0": 36.0,
+        "y_center": 445.42095947265625,
+        "heading": "A203 *Teams must attend a structured interview session. To be considered for any judged awards the team"
+      },
+      "range": {
+        "start_page": 44,
+        "end_page": 44
+      }
+    },
+    "A204": {
+      "start": {
+        "page": 44,
+        "x0": 36.0,
+        "y_center": 578.5009155273438,
+        "heading": "A204 *Bring the right resources with you for your structured interview. Teams attending their structured"
+      },
+      "range": {
+        "start_page": 44,
+        "end_page": 45
+      }
+    },
+    "A205": {
+      "start": {
+        "page": 45,
+        "x0": 36.0,
+        "y_center": 236.3309555053711,
+        "heading": "A205 *Everyone gets equal structured interview time. All teams will be scheduled for the same length"
+      },
+      "range": {
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    "A206": {
+      "start": {
+        "page": 45,
+        "x0": 36.0,
+        "y_center": 285.80096435546875,
+        "heading": "A206 *The structured interview timer starts when the team starts. The timer starts after the team has"
+      },
+      "range": {
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    "A207": {
+      "start": {
+        "page": 45,
+        "x0": 36.0,
+        "y_center": 453.94097900390625,
+        "heading": "A207 *Prepared structured presentation time should not be interrupted. The first 5 minutes of the structured"
+      },
+      "range": {
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    "A208": {
+      "start": {
+        "page": 45,
+        "x0": 36.0,
+        "y_center": 518.0209503173828,
+        "heading": "A208 *One adult silent observer is welcome. One adult mentor may attend the judging session and be"
+      },
+      "range": {
+        "start_page": 45,
+        "end_page": 45
+      }
+    },
+    "A209": {
+      "start": {
+        "page": 45,
+        "x0": 36.0,
+        "y_center": 651.0109252929688,
+        "heading": "A209 *Translator and/or Sign Language Interpreter accommodations will be made for teams who need it."
+      },
+      "range": {
+        "start_page": 45,
+        "end_page": 46
+      }
+    },
+    "A210": {
+      "start": {
+        "page": 46,
+        "x0": 36.0,
+        "y_center": 186.77095794677734,
+        "heading": "A210 *No Photos, Video or Audio recording during structured interview. In addition to the restrictions of"
+      },
+      "range": {
+        "start_page": 46,
+        "end_page": 46
+      }
+    },
+    "A211": {
+      "start": {
+        "page": 46,
+        "x0": 36.0,
+        "y_center": 221.8109359741211,
+        "heading": "A211 *The number of awards given scales with event size. The total number of awards given is based on the"
+      },
+      "range": {
+        "start_page": 46,
+        "end_page": 47
+      }
+    },
+    "A212": {
+      "start": {
+        "page": 47,
+        "x0": 36.0,
+        "y_center": 134.8109359741211,
+        "heading": "A212 *Judging feedback is provided to all teams. All teams will receive feedback from their structured"
+      },
+      "range": {
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    "A213": {
+      "start": {
+        "page": 47,
+        "x0": 36.0,
+        "y_center": 253.28097534179688,
+        "heading": "A213 *Teams are only eligible to win the Inspire Award in their own region. Teams are only eligible to be"
+      },
+      "range": {
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    "A214": {
+      "start": {
+        "page": 47,
+        "x0": 36.0,
+        "y_center": 302.8409729003906,
+        "heading": "A214 *Teams cannot win the Inspire Award at multiple Qualifying or League Tournaments. Teams are only"
+      },
+      "range": {
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    "A215": {
+      "start": {
+        "page": 47,
+        "x0": 36.0,
+        "y_center": 377.8409729003906,
+        "heading": "A215 *Teams can only get one judged award. Teams are only eligible to win or be a runner-up for a single"
+      },
+      "range": {
+        "start_page": 47,
+        "end_page": 47
+      }
+    },
+    "G101": {
+      "start": {
+        "page": 93,
+        "x0": 36.0,
+        "y_center": 168.77095794677734,
+        "heading": "G101 *Humans, stay off the FIELD during the MATCH. Other than actions explicitly allowed in section"
+      },
+      "range": {
+        "start_page": 93,
+        "end_page": 93
+      }
+    },
+    "G102": {
+      "start": {
+        "page": 93,
+        "x0": 36.0,
+        "y_center": 420.92095947265625,
+        "heading": "G102 *Be careful when interacting with ARENA elements. A team member is prohibited from the following"
+      },
+      "range": {
+        "start_page": 93,
+        "end_page": 93
+      }
+    },
+    "G201": {
+      "start": {
+        "page": 93,
+        "x0": 36.0,
+        "y_center": 638.6509399414062,
+        "heading": "G201 *Be a good person. All teams must be civil toward everyone and respectful of team and event"
+      },
+      "range": {
+        "start_page": 93,
+        "end_page": 94
+      }
+    },
+    "G202": {
+      "start": {
+        "page": 94,
+        "x0": 36.0,
+        "y_center": 308.8409729003906,
+        "heading": "G202 *DRIVE TEAM Interactions. DRIVE TEAM members cannot distract/interfere with the opposing"
+      },
+      "range": {
+        "start_page": 94,
+        "end_page": 94
+      }
+    },
+    "G203": {
+      "start": {
+        "page": 94,
+        "x0": 36.0,
+        "y_center": 364.4009704589844,
+        "heading": "G203 *Asking other teams to throw a MATCH – not cool. A team may not encourage an ALLIANCE of which"
+      },
+      "range": {
+        "start_page": 94,
+        "end_page": 94
+      }
+    },
+    "G204": {
+      "start": {
+        "page": 94,
+        "x0": 36.0,
+        "y_center": 666.6109619140625,
+        "heading": "G204 *Letting someone coerce you into throwing a MATCH – also not cool. A team, as the result of"
+      },
+      "range": {
+        "start_page": 94,
+        "end_page": 95
+      }
+    },
+    "G205": {
+      "start": {
+        "page": 95,
+        "x0": 36.0,
+        "y_center": 329.3609619140625,
+        "heading": "G205 *Throwing your own MATCH is bad. A team may not intentionally lose a MATCH or sacrifice RANKING"
+      },
+      "range": {
+        "start_page": 95,
+        "end_page": 95
+      }
+    },
+    "G206": {
+      "start": {
+        "page": 95,
+        "x0": 36.0,
+        "y_center": 482.98095703125,
+        "heading": "G206 *Don't violate rules for RPs. A team or ALLIANCE may not collude with another team to each"
+      },
+      "range": {
+        "start_page": 95,
+        "end_page": 95
+      }
+    },
+    "G207": {
+      "start": {
+        "page": 95,
+        "x0": 36.0,
+        "y_center": 593.0209350585938,
+        "heading": "G207 *Do not abuse ARENA access. A team member (except those DRIVE TEAM members on the DRIVE"
+      },
+      "range": {
+        "start_page": 95,
+        "end_page": 96
+      }
+    },
+    "G208": {
+      "start": {
+        "page": 96,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "G208 *Show up to your MATCHES. If a ROBOT has passed initial, complete inspection, at least 1 member of"
+      },
+      "range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    "G209": {
+      "start": {
+        "page": 96,
+        "x0": 36.0,
+        "y_center": 207.29097747802734,
+        "heading": "G209 *Keep your ROBOT together. A ROBOT may not intentionally detach or leave a part on the FIELD."
+      },
+      "range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    "G210": {
+      "start": {
+        "page": 96,
+        "x0": 36.0,
+        "y_center": 248.3309555053711,
+        "heading": "G210 *Do not expect to gain by doing others harm. Actions clearly aimed at forcing the opponent ALLIANCE"
+      },
+      "range": {
+        "start_page": 96,
+        "end_page": 96
+      }
+    },
+    "G211": {
+      "start": {
+        "page": 96,
+        "x0": 36.0,
+        "y_center": 494.98095703125,
+        "heading": "G211 *Egregious or exceptional violations. Egregious behavior beyond what is listed in the rules or"
+      },
+      "range": {
+        "start_page": 96,
+        "end_page": 97
+      }
+    },
+    "G212": {
+      "start": {
+        "page": 97,
+        "x0": 36.0,
+        "y_center": 277.4009704589844,
+        "heading": "G212 *All teams can play. A team may not encourage another team to exclude their ROBOT or be"
+      },
+      "range": {
+        "start_page": 97,
+        "end_page": 97
+      }
+    },
+    "G301": {
+      "start": {
+        "page": 97,
+        "x0": 36.0,
+        "y_center": 362.0009765625,
+        "heading": "G301 *Be prompt. A DRIVE TEAM member may not cause significant delays to the start of their MATCH."
+      },
+      "range": {
+        "start_page": 97,
+        "end_page": 98
+      }
+    },
+    "G302": {
+      "start": {
+        "page": 98,
+        "x0": 36.0,
+        "y_center": 552.94091796875,
+        "heading": "G302 *Limit what you bring to the FIELD. Items brought to the FIELD to be used for a MATCH, in addition to"
+      },
+      "range": {
+        "start_page": 98,
+        "end_page": 99
+      }
+    },
+    "G303": {
+      "start": {
+        "page": 99,
+        "x0": 36.0,
+        "y_center": 320.8409729003906,
+        "heading": "G303 *ROBOTS on the FIELD must come ready to play a MATCH. A ROBOT must meet all following MATCH-"
+      },
+      "range": {
+        "start_page": 99,
+        "end_page": 99
+      }
+    },
+    "G304": {
+      "start": {
+        "page": 100,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "G304 *ROBOTS must be set up correctly on the FIELD. A ROBOT must be positioned on the FIELD such that"
+      },
+      "range": {
+        "start_page": 100,
+        "end_page": 101
+      }
+    },
+    "G305": {
+      "start": {
+        "page": 101,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "G305 *Teams must select an OpMode. An OpMode must be selected on the DRIVER STATION app and"
+      },
+      "range": {
+        "start_page": 101,
+        "end_page": 101
+      }
+    },
+    "G401": {
+      "start": {
+        "page": 101,
+        "x0": 36.0,
+        "y_center": 397.04095458984375,
+        "heading": "G401 *Let the ROBOT do its thing. As soon as FIELD STAFF begins the randomization process and until the"
+      },
+      "range": {
+        "start_page": 101,
+        "end_page": 102
+      }
+    },
+    "G402": {
+      "start": {
+        "page": 102,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "G402 No AUTO opponent interference. During AUTO, FIELD columns A, B, C constitute the blue side of the"
+      },
+      "range": {
+        "start_page": 102,
+        "end_page": 102
+      }
+    },
+    "G403": {
+      "start": {
+        "page": 103,
+        "x0": 36.0,
+        "y_center": 117.77095794677734,
+        "heading": "G403 *ROBOTS are motionless between AUTO and TELEOP. Any powered movement of the ROBOT or any of"
+      },
+      "range": {
+        "start_page": 103,
+        "end_page": 103
+      }
+    },
+    "G404": {
+      "start": {
+        "page": 103,
+        "x0": 36.0,
+        "y_center": 411.50169372558594,
+        "heading": "G404 *ROBOTS are motionless at the end of TELEOP. ROBOTS must no longer have powered movement"
+      },
+      "range": {
+        "start_page": 103,
+        "end_page": 103
+      }
+    },
+    "G405": {
+      "start": {
+        "page": 103,
+        "x0": 36.0,
+        "y_center": 641.2909545898438,
+        "heading": "G405 *ROBOTS use SCORING ELEMENTS as directed. A ROBOT may not deliberately use a SCORING"
+      },
+      "range": {
+        "start_page": 103,
+        "end_page": 104
+      }
+    },
+    "G406": {
+      "start": {
+        "page": 104,
+        "x0": 36.0,
+        "y_center": 178.25093841552734,
+        "heading": "G406 *Keep SCORING ELEMENTS in bounds. A ROBOT may not intentionally eject a SCORING ELEMENT"
+      },
+      "range": {
+        "start_page": 104,
+        "end_page": 104
+      }
+    },
+    "G407": {
+      "start": {
+        "page": 104,
+        "x0": 36.0,
+        "y_center": 273.8009948730469,
+        "heading": "G407 *Do not damage SCORING ELEMENTS. Neither a ROBOT nor a DRIVE TEAM member may damage a"
+      },
+      "range": {
+        "start_page": 104,
+        "end_page": 104
+      }
+    },
+    "G408": {
+      "start": {
+        "page": 104,
+        "x0": 36.0,
+        "y_center": 441.94097900390625,
+        "heading": "G408 No more than 3 at a time. A ROBOT may not simultaneously CONTROL more than 3 ARTIFACTS."
+      },
+      "range": {
+        "start_page": 104,
+        "end_page": 105
+      }
+    },
+    "G409": {
+      "start": {
+        "page": 105,
+        "x0": 36.0,
+        "y_center": 175.7309799194336,
+        "heading": "G409 *ROBOTS must be under control. A ROBOT must not pose an undue hazard to a human or an ARENA"
+      },
+      "range": {
+        "start_page": 105,
+        "end_page": 105
+      }
+    },
+    "G410": {
+      "start": {
+        "page": 105,
+        "x0": 36.0,
+        "y_center": 483.94097900390625,
+        "heading": "G410 *ROBOTS must stop when instructed. If a team is instructed to DISABLE their ROBOT by a REFEREE per"
+      },
+      "range": {
+        "start_page": 105,
+        "end_page": 105
+      }
+    },
+    "G411": {
+      "start": {
+        "page": 105,
+        "x0": 36.0,
+        "y_center": 539.6209716796875,
+        "heading": "G411 *ROBOTS must be identifiable. A ROBOT’S team number and ALLIANCE color must not become"
+      },
+      "range": {
+        "start_page": 105,
+        "end_page": 105
+      }
+    },
+    "G412": {
+      "start": {
+        "page": 105,
+        "x0": 36.0,
+        "y_center": 649.69091796875,
+        "heading": "G412 *Don’t damage the FIELD. A ROBOT may not damage FIELD elements."
+      },
+      "range": {
+        "start_page": 105,
+        "end_page": 106
+      }
+    },
+    "G413": {
+      "start": {
+        "page": 106,
+        "x0": 36.0,
+        "y_center": 262.8809509277344,
+        "heading": "G413 *Watch your ARENA interaction. A ROBOT is prohibited from the following interactions with an ARENA"
+      },
+      "range": {
+        "start_page": 106,
+        "end_page": 106
+      }
+    },
+    "G414": {
+      "start": {
+        "page": 106,
+        "x0": 36.0,
+        "y_center": 494.98095703125,
+        "heading": "G414 ROBOTS have horizontal expansion limits. ROBOTS must comply with the horizontal expansion limits"
+      },
+      "range": {
+        "start_page": 106,
+        "end_page": 106
+      }
+    },
+    "G415": {
+      "start": {
+        "page": 106,
+        "x0": 36.0,
+        "y_center": 640.0909423828125,
+        "heading": "G415 ROBOTS have vertical expansion limits, with exceptions. ROBOTS must comply with the vertical"
+      },
+      "range": {
+        "start_page": 106,
+        "end_page": 107
+      }
+    },
+    "G416": {
+      "start": {
+        "page": 107,
+        "x0": 36.0,
+        "y_center": 186.77095794677734,
+        "heading": "G416 LAUNCHING in the LAUNCH ZONE only. ROBOTS may only LAUNCH SCORING ELEMENTS when inside"
+      },
+      "range": {
+        "start_page": 107,
+        "end_page": 107
+      }
+    },
+    "G417": {
+      "start": {
+        "page": 107,
+        "x0": 36.0,
+        "y_center": 439.42095947265625,
+        "heading": "G417 ROBOTS only operate GATES as directed. ROBOTS may not:"
+      },
+      "range": {
+        "start_page": 107,
+        "end_page": 107
+      }
+    },
+    "G418": {
+      "start": {
+        "page": 107,
+        "x0": 36.0,
+        "y_center": 613.5709228515625,
+        "heading": "G418 ROBOTS may not meddle with ARTIFACTS on RAMPS. ROBOTS may not contact, either directly or"
+      },
+      "range": {
+        "start_page": 107,
+        "end_page": 108
+      }
+    },
+    "G419": {
+      "start": {
+        "page": 108,
+        "x0": 36.0,
+        "y_center": 300.3209533691406,
+        "heading": "G419 ROBOTS LAUNCH into their own GOAL. ROBOTS may not:"
+      },
+      "range": {
+        "start_page": 108,
+        "end_page": 108
+      }
+    },
+    "G420": {
+      "start": {
+        "page": 108,
+        "x0": 36.0,
+        "y_center": 581.98095703125,
+        "heading": "G420 *This is not combat robotics. A ROBOT may not deliberately functionally impair an opponent ROBOT."
+      },
+      "range": {
+        "start_page": 108,
+        "end_page": 109
+      }
+    },
+    "G421": {
+      "start": {
+        "page": 109,
+        "x0": 36.0,
+        "y_center": 489.94097900390625,
+        "heading": "G421 *Do not tip or entangle. A ROBOT may not deliberately, as perceived by a REFEREE, attach to, tip, or"
+      },
+      "range": {
+        "start_page": 109,
+        "end_page": 110
+      }
+    },
+    "G422": {
+      "start": {
+        "page": 110,
+        "x0": 36.0,
+        "y_center": 163.7309799194336,
+        "heading": "G422 *There is a 3-count on PINS. A ROBOT may not PIN an opponent’s ROBOT for more than 3 seconds. A"
+      },
+      "range": {
+        "start_page": 110,
+        "end_page": 110
+      }
+    },
+    "G423": {
+      "start": {
+        "page": 110,
+        "x0": 36.0,
+        "y_center": 396.92095947265625,
+        "heading": "G423 *Do not use strategies intended to shut down major parts of gameplay. A ROBOT or ROBOTS may not,"
+      },
+      "range": {
+        "start_page": 110,
+        "end_page": 110
+      }
+    },
+    "G424": {
+      "start": {
+        "page": 110,
+        "x0": 36.0,
+        "y_center": 564.94091796875,
+        "heading": "G424 GATE ZONE is OFF LIMITS. A ROBOT may not contact, directly or transitively though a SCORING"
+      },
+      "range": {
+        "start_page": 110,
+        "end_page": 111
+      }
+    },
+    "G425": {
+      "start": {
+        "page": 111,
+        "x0": 36.0,
+        "y_center": 319.4009704589844,
+        "heading": "G425 Keep out of opponent’s SECRET TUNNEL A ROBOT in the opponent’s SECRET TUNNEL ZONE may not"
+      },
+      "range": {
+        "start_page": 111,
+        "end_page": 111
+      }
+    },
+    "G426": {
+      "start": {
+        "page": 111,
+        "x0": 36.0,
+        "y_center": 657.2509155273438,
+        "heading": "G426 LOADING ZONE protection. A ROBOT may not contact, directly or transitively through a SCORING"
+      },
+      "range": {
+        "start_page": 111,
+        "end_page": 112
+      }
+    },
+    "G427": {
+      "start": {
+        "page": 112,
+        "x0": 36.0,
+        "y_center": 401.240966796875,
+        "heading": "G427 BASE ZONE protection. During the last 20 seconds of the MATCH, a ROBOT may not contact, directly"
+      },
+      "range": {
+        "start_page": 112,
+        "end_page": 112
+      }
+    },
+    "G428": {
+      "start": {
+        "page": 112,
+        "x0": 36.0,
+        "y_center": 512.2609405517578,
+        "heading": "G428 *No wandering. DRIVE TEAM members must remain in their designated ALLIANCE AREA."
+      },
+      "range": {
+        "start_page": 112,
+        "end_page": 113
+      }
+    },
+    "G429": {
+      "start": {
+        "page": 113,
+        "x0": 36.0,
+        "y_center": 134.8109359741211,
+        "heading": "G429 *DRIVE COACHES and other teams: hands off the controls. A ROBOT shall be operated only by the"
+      },
+      "range": {
+        "start_page": 113,
+        "end_page": 113
+      }
+    },
+    "G430": {
+      "start": {
+        "page": 113,
+        "x0": 36.0,
+        "y_center": 338.1209716796875,
+        "heading": "G430 *DRIVE COACHES, SCORING ELEMENTS are off limits. DRIVE COACHES may not contact SCORING"
+      },
+      "range": {
+        "start_page": 113,
+        "end_page": 113
+      }
+    },
+    "G431": {
+      "start": {
+        "page": 113,
+        "x0": 36.0,
+        "y_center": 393.56097412109375,
+        "heading": "G431 *DRIVE TEAMS, watch your reach. Once a MATCH starts, a DRIVE TEAM member inside the FIELD may"
+      },
+      "range": {
+        "start_page": 113,
+        "end_page": 113
+      }
+    },
+    "G432": {
+      "start": {
+        "page": 114,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "G432 Humans, only meddle with ARTIFACTS in the LOADING ZONE. DRIVE TEAM members may only"
+      },
+      "range": {
+        "start_page": 114,
+        "end_page": 114
+      }
+    },
+    "G433": {
+      "start": {
+        "page": 114,
+        "x0": 36.0,
+        "y_center": 442.9009704589844,
+        "heading": "G433 Humans may only enter SCORING ELEMENTS. DRIVE TEAM members may only enter ARTIFACTS onto"
+      },
+      "range": {
+        "start_page": 114,
+        "end_page": 114
+      }
+    },
+    "G434": {
+      "start": {
+        "page": 114,
+        "x0": 36.0,
+        "y_center": 498.4609680175781,
+        "heading": "G434 The ALLIANCE AREA has a storage limit. During TELEOP, each ALLIANCE may not store more than 6"
+      },
+      "range": {
+        "start_page": 114,
+        "end_page": 115
+      }
+    },
+    "R101": {
+      "start": {
+        "page": 119,
+        "x0": 36.0,
+        "y_center": 524.1409301757812,
+        "heading": "R101 *STARTING CONFIGURATION is limited to an 18-inch Cube. In the STARTING CONFIGURATION (the"
+      },
+      "range": {
+        "start_page": 119,
+        "end_page": 119
+      }
+    },
+    "R102": {
+      "start": {
+        "page": 119,
+        "x0": 36.0,
+        "y_center": 648.73095703125,
+        "heading": "R102 *ROBOTS may assist in holding the STARTING CONFIGURATION. In the STARTING CONFIGURATION,"
+      },
+      "range": {
+        "start_page": 119,
+        "end_page": 120
+      }
+    },
+    "R103": {
+      "start": {
+        "page": 120,
+        "x0": 36.0,
+        "y_center": 244.8509750366211,
+        "heading": "R103 *There is no ROBOT weight limit. There is no explicit weight limit for FIRST Tech Challenge ROBOTS."
+      },
+      "range": {
+        "start_page": 120,
+        "end_page": 120
+      }
+    },
+    "R104": {
+      "start": {
+        "page": 120,
+        "x0": 36.0,
+        "y_center": 369.44097900390625,
+        "heading": "R104 *Keep it together. ROBOTS may not be designed to intentionally detach COMPONENTS."
+      },
+      "range": {
+        "start_page": 120,
+        "end_page": 120
+      }
+    },
+    "R105": {
+      "start": {
+        "page": 121,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R105 There are expansion limits. After the MATCH has started, ROBOTS may expand beyond the STARTING"
+      },
+      "range": {
+        "start_page": 121,
+        "end_page": 123
+      }
+    },
+    "R201": {
+      "start": {
+        "page": 123,
+        "x0": 36.0,
+        "y_center": 368.1209716796875,
+        "heading": "R201 *Do not damage the TILE floor. Traction devices must not have surface features which are known to"
+      },
+      "range": {
+        "start_page": 123,
+        "end_page": 123
+      }
+    },
+    "R202": {
+      "start": {
+        "page": 123,
+        "x0": 36.0,
+        "y_center": 515.7409820556641,
+        "heading": "R202 *No exposed sharp edges. Protrusions from the ROBOT and exposed surfaces on the ROBOT shall not"
+      },
+      "range": {
+        "start_page": 123,
+        "end_page": 123
+      }
+    },
+    "R203": {
+      "start": {
+        "page": 123,
+        "x0": 36.0,
+        "y_center": 550.6609497070312,
+        "heading": "R203 *Design ROBOTS for safety and fair play. ROBOT parts shall not be made from hazardous materials, be"
+      },
+      "range": {
+        "start_page": 123,
+        "end_page": 124
+      }
+    },
+    "R204": {
+      "start": {
+        "page": 124,
+        "x0": 36.0,
+        "y_center": 375.44097900390625,
+        "heading": "R204 *SCORING ELEMENTS stay with the FIELD. ROBOTS must allow removal of SCORING ELEMENTS from"
+      },
+      "range": {
+        "start_page": 124,
+        "end_page": 124
+      }
+    },
+    "R205": {
+      "start": {
+        "page": 124,
+        "x0": 36.0,
+        "y_center": 450.4609680175781,
+        "heading": "R205 *Do not make a mess on the FIELD. ROBOTS may not contain any materials which if unintentionally"
+      },
+      "range": {
+        "start_page": 124,
+        "end_page": 124
+      }
+    },
+    "R206": {
+      "start": {
+        "page": 124,
+        "x0": 36.0,
+        "y_center": 682.5709228515625,
+        "heading": "R206 *Do not damage SCORING ELEMENTS. ROBOT elements likely to contact SCORING ELEMENTS shall"
+      },
+      "range": {
+        "start_page": 124,
+        "end_page": 125
+      }
+    },
+    "R207": {
+      "start": {
+        "page": 125,
+        "x0": 36.0,
+        "y_center": 166.25093841552734,
+        "heading": "R207 *ROBOTS don’t use air. ROBOTS are restricted in their use of air in the following ways:"
+      },
+      "range": {
+        "start_page": 125,
+        "end_page": 125
+      }
+    },
+    "R208": {
+      "start": {
+        "page": 125,
+        "x0": 36.0,
+        "y_center": 340.4009704589844,
+        "heading": "R208 *No grabbing the floor. ROBOTS may not use any mechanism which is designed to increase downforce"
+      },
+      "range": {
+        "start_page": 125,
+        "end_page": 125
+      }
+    },
+    "R301": {
+      "start": {
+        "page": 125,
+        "x0": 36.0,
+        "y_center": 419.0009765625,
+        "heading": "R301 *COTS MECHANISMS are legal but have limits. COTS MAJOR MECHANISMS (as defined in I301)"
+      },
+      "range": {
+        "start_page": 125,
+        "end_page": 125
+      }
+    },
+    "R302": {
+      "start": {
+        "page": 125,
+        "x0": 36.0,
+        "y_center": 572.6209716796875,
+        "heading": "R302 *Legal COTS parts and raw materials can be modified. Allowed raw materials and legal COTS parts"
+      },
+      "range": {
+        "start_page": 125,
+        "end_page": 126
+      }
+    },
+    "R303": {
+      "start": {
+        "page": 126,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R303 *COTS must be single DoF. COTS COMPONENTS and MECHANISMS must not exceed a single degree"
+      },
+      "range": {
+        "start_page": 126,
+        "end_page": 127
+      }
+    },
+    "R304": {
+      "start": {
+        "page": 127,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R304 *Custom parts can be reused year to year. FABRICATED ITEMS created before Kickoff are permitted."
+      },
+      "range": {
+        "start_page": 127,
+        "end_page": 127
+      }
+    },
+    "R305": {
+      "start": {
+        "page": 127,
+        "x0": 36.0,
+        "y_center": 117.77095794677734,
+        "heading": "R305 *Custom designs and software can be reused year to year. ROBOT software and designs created"
+      },
+      "range": {
+        "start_page": 127,
+        "end_page": 127
+      }
+    },
+    "R306": {
+      "start": {
+        "page": 127,
+        "x0": 36.0,
+        "y_center": 152.8109359741211,
+        "heading": "R306 *SCORING ELEMENTS are not allowed for ROBOT construction. Current season SCORING ELEMENTS"
+      },
+      "range": {
+        "start_page": 127,
+        "end_page": 127
+      }
+    },
+    "R307": {
+      "start": {
+        "page": 127,
+        "x0": 36.0,
+        "y_center": 202.25093841552734,
+        "heading": "R307 *During an event, work can occur outside of pit hours. During an event a team is attending (regardless"
+      },
+      "range": {
+        "start_page": 127,
+        "end_page": 127
+      }
+    },
+    "R401": {
+      "start": {
+        "page": 128,
+        "x0": 36.0,
+        "y_center": 219.41097259521484,
+        "heading": "R401 *Two ROBOT SIGNS per ROBOT. ROBOT SIGNS must be placed in at least 2 separate locations on the"
+      },
+      "range": {
+        "start_page": 128,
+        "end_page": 128
+      }
+    },
+    "R402": {
+      "start": {
+        "page": 128,
+        "x0": 36.0,
+        "y_center": 680.4109497070312,
+        "heading": "R402 *ROBOT SIGNS indicate your ALLIANCE. Each ROBOT SIGN must contain a rectangle with a solid red"
+      },
+      "range": {
+        "start_page": 128,
+        "end_page": 129
+      }
+    },
+    "R403": {
+      "start": {
+        "page": 129,
+        "x0": 36.0,
+        "y_center": 575.2609252929688,
+        "heading": "R403 *Team number on ROBOT SIGNS. Team numbers must be displayed and positioned on the ROBOT"
+      },
+      "range": {
+        "start_page": 129,
+        "end_page": 130
+      }
+    },
+    "R501": {
+      "start": {
+        "page": 131,
+        "x0": 36.0,
+        "y_center": 120.41097259521484,
+        "heading": "R501 *Allowable motors. The only allowed motor actuators are:"
+      },
+      "range": {
+        "start_page": 131,
+        "end_page": 131
+      }
+    },
+    "R502": {
+      "start": {
+        "page": 132,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R502 *Allowable servos. Servo actuators must meet the requirements below. Servos must be compatible"
+      },
+      "range": {
+        "start_page": 132,
+        "end_page": 132
+      }
+    },
+    "R503": {
+      "start": {
+        "page": 133,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R503 *ROBOTS are limited to a total of 8 motors and 10 servos. A ROBOT may not have more than 8 motors"
+      },
+      "range": {
+        "start_page": 133,
+        "end_page": 133
+      }
+    },
+    "R504": {
+      "start": {
+        "page": 133,
+        "x0": 36.0,
+        "y_center": 387.44097900390625,
+        "heading": "R504 *Do not modify actuators unless explicitly allowed. The integral mechanical and electrical system of"
+      },
+      "range": {
+        "start_page": 133,
+        "end_page": 133
+      }
+    },
+    "R505": {
+      "start": {
+        "page": 134,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R505 *All actuators must be controlled and powered through approved devices. With the exception of"
+      },
+      "range": {
+        "start_page": 134,
+        "end_page": 134
+      }
+    },
+    "R506": {
+      "start": {
+        "page": 134,
+        "x0": 36.0,
+        "y_center": 387.56097412109375,
+        "heading": "R506 *No relays or alternative electrical actuation. The application of electromechanical actuation through"
+      },
+      "range": {
+        "start_page": 134,
+        "end_page": 134
+      }
+    },
+    "R601": {
+      "start": {
+        "page": 134,
+        "x0": 36.0,
+        "y_center": 501.3409729003906,
+        "heading": "R601 *Battery limit – everyone has the same main ROBOT power. The only legal source of electrical energy"
+      },
+      "range": {
+        "start_page": 134,
+        "end_page": 135
+      }
+    },
+    "R602": {
+      "start": {
+        "page": 135,
+        "x0": 36.0,
+        "y_center": 276.3209533691406,
+        "heading": "R602 *Other batteries are only allowed for peripheral devices and LEDs only. COTS USB battery packs with a"
+      },
+      "range": {
+        "start_page": 135,
+        "end_page": 135
+      }
+    },
+    "R603": {
+      "start": {
+        "page": 135,
+        "x0": 36.0,
+        "y_center": 545.98095703125,
+        "heading": "R603 *Charge batteries with safe connectors. Any battery charger used to charge a ROBOT battery must"
+      },
+      "range": {
+        "start_page": 135,
+        "end_page": 135
+      }
+    },
+    "R604": {
+      "start": {
+        "page": 135,
+        "x0": 36.0,
+        "y_center": 606.490966796875,
+        "heading": "R604 *Charge batteries at a safe rate. Any battery charger used to charge a ROBOT battery may not be used"
+      },
+      "range": {
+        "start_page": 135,
+        "end_page": 135
+      }
+    },
+    "R605": {
+      "start": {
+        "page": 135,
+        "x0": 36.0,
+        "y_center": 656.0509033203125,
+        "heading": "R605 *Batteries are not ballast. No batteries other than those allowed per R601 and R602 are allowed on the"
+      },
+      "range": {
+        "start_page": 135,
+        "end_page": 135
+      }
+    },
+    "R606": {
+      "start": {
+        "page": 136,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R606 *Batteries should be securely mounted. The ROBOT battery must be secured such that it will not"
+      },
+      "range": {
+        "start_page": 136,
+        "end_page": 136
+      }
+    },
+    "R607": {
+      "start": {
+        "page": 136,
+        "x0": 36.0,
+        "y_center": 161.2109603881836,
+        "heading": "R607 *Electrical connections should be robust and must be insulated. All electrical paths may include"
+      },
+      "range": {
+        "start_page": 136,
+        "end_page": 136
+      }
+    },
+    "R608": {
+      "start": {
+        "page": 136,
+        "x0": 36.0,
+        "y_center": 279.80096435546875,
+        "heading": "R608 *Limit non-battery energy. Non-electrical sources of energy used by the ROBOT (i.e., stored at the start"
+      },
+      "range": {
+        "start_page": 136,
+        "end_page": 136
+      }
+    },
+    "R609": {
+      "start": {
+        "page": 136,
+        "x0": 36.0,
+        "y_center": 364.4009704589844,
+        "heading": "R609 *Connect the ROBOT battery though the Main Power Switch. Exactly one main power switch must"
+      },
+      "range": {
+        "start_page": 136,
+        "end_page": 137
+      }
+    },
+    "R610": {
+      "start": {
+        "page": 137,
+        "x0": 36.0,
+        "y_center": 184.25093841552734,
+        "heading": "R610 *Fuse ratings should not be altered. Fuses must not be replaced with fuses of higher rating than"
+      },
+      "range": {
+        "start_page": 137,
+        "end_page": 137
+      }
+    },
+    "R611": {
+      "start": {
+        "page": 137,
+        "x0": 36.0,
+        "y_center": 262.8809509277344,
+        "heading": "R611 *The ROBOT frame is not a wire. All wiring and electrical devices shall be electrically isolated from the"
+      },
+      "range": {
+        "start_page": 137,
+        "end_page": 138
+      }
+    },
+    "R612": {
+      "start": {
+        "page": 138,
+        "x0": 36.0,
+        "y_center": 178.25093841552734,
+        "heading": "R612 *Electrical system must be inspectable. All power regulating devices (per R505), associated wiring, and"
+      },
+      "range": {
+        "start_page": 138,
+        "end_page": 138
+      }
+    },
+    "R613": {
+      "start": {
+        "page": 138,
+        "x0": 36.0,
+        "y_center": 267.8009948730469,
+        "heading": "R613 *No high voltage allowed except for LEDs. Any active electrical item that is not an actuator (specified"
+      },
+      "range": {
+        "start_page": 138,
+        "end_page": 138
+      }
+    },
+    "R614": {
+      "start": {
+        "page": 138,
+        "x0": 36.0,
+        "y_center": 331.8809814453125,
+        "heading": "R614 *Energize Power Regulating Devices as specified. All power regulating devices (R505) must be"
+      },
+      "range": {
+        "start_page": 138,
+        "end_page": 138
+      }
+    },
+    "R615": {
+      "start": {
+        "page": 138,
+        "x0": 36.0,
+        "y_center": 619.69091796875,
+        "heading": "R615 *Use appropriately sized wire. All circuits shall be wired with appropriately sized insulated copper wire"
+      },
+      "range": {
+        "start_page": 138,
+        "end_page": 139
+      }
+    },
+    "R616": {
+      "start": {
+        "page": 139,
+        "x0": 36.0,
+        "y_center": 433.9009704589844,
+        "heading": "R616 *Use specified wire colors. All non-SIGNAL LEVEL wiring with a constant polarity (i.e., except for"
+      },
+      "range": {
+        "start_page": 139,
+        "end_page": 139
+      }
+    },
+    "R617": {
+      "start": {
+        "page": 139,
+        "x0": 36.0,
+        "y_center": 672.0109252929688,
+        "heading": "R617 *Powered USB hubs must draw energy from approved sources. Powered USB hubs used on the"
+      },
+      "range": {
+        "start_page": 139,
+        "end_page": 139
+      }
+    },
+    "R618": {
+      "start": {
+        "page": 140,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R618 *Do not modify critical power paths. CUSTOM CIRCUITS shall not directly alter the power or control"
+      },
+      "range": {
+        "start_page": 140,
+        "end_page": 140
+      }
+    },
+    "R619": {
+      "start": {
+        "page": 140,
+        "x0": 36.0,
+        "y_center": 349.8809814453125,
+        "heading": "R619 *Do not mix and match power on or between power regulation devices. The following rules must be"
+      },
+      "range": {
+        "start_page": 140,
+        "end_page": 141
+      }
+    },
+    "R701": {
+      "start": {
+        "page": 141,
+        "x0": 36.0,
+        "y_center": 161.4509506225586,
+        "heading": "R701 *Control the ROBOT with a single ROBOT CONTROLLER. ROBOTS must be controlled via 1"
+      },
+      "range": {
+        "start_page": 141,
+        "end_page": 141
+      }
+    },
+    "R702": {
+      "start": {
+        "page": 141,
+        "x0": 36.0,
+        "y_center": 287.0009765625,
+        "heading": "R702 *Teams may not alter coprocessor software. Modifying software on coprocessors, unless explicitly"
+      },
+      "range": {
+        "start_page": 141,
+        "end_page": 141
+      }
+    },
+    "R703": {
+      "start": {
+        "page": 141,
+        "x0": 36.0,
+        "y_center": 597.6109619140625,
+        "heading": "R703 *Some vision coprocessors can be programmed. Programmable vision coprocessors that are natively"
+      },
+      "range": {
+        "start_page": 141,
+        "end_page": 142
+      }
+    },
+    "R704": {
+      "start": {
+        "page": 142,
+        "x0": 36.0,
+        "y_center": 357.44097900390625,
+        "heading": "R704 *Use only legal Android smartphone devices. Android smartphone devices, if used, must minimally be"
+      },
+      "range": {
+        "start_page": 142,
+        "end_page": 142
+      }
+    },
+    "R705": {
+      "start": {
+        "page": 143,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R705 *Smartphone android devices used as a ROBOT CONTROLLER must connect to the REV Expansion"
+      },
+      "range": {
+        "start_page": 143,
+        "end_page": 143
+      }
+    },
+    "R706": {
+      "start": {
+        "page": 143,
+        "x0": 36.0,
+        "y_center": 196.25093841552734,
+        "heading": "R706 *Bandwidth is restricted. Software with access to the ROBOT network must limit the amount of data"
+      },
+      "range": {
+        "start_page": 143,
+        "end_page": 143
+      }
+    },
+    "R707": {
+      "start": {
+        "page": 143,
+        "x0": 36.0,
+        "y_center": 260.3609924316406,
+        "heading": "R707 *Configure devices for your team number. The ROBOT CONTROLLER, DRIVER STATION, and any"
+      },
+      "range": {
+        "start_page": 143,
+        "end_page": 143
+      }
+    },
+    "R708": {
+      "start": {
+        "page": 143,
+        "x0": 36.0,
+        "y_center": 413.9609680175781,
+        "heading": "R708 *Do not interfere with the ROBOT networks. During a MATCH, all communications signals must"
+      },
+      "range": {
+        "start_page": 143,
+        "end_page": 143
+      }
+    },
+    "R709": {
+      "start": {
+        "page": 143,
+        "x0": 36.0,
+        "y_center": 546.94091796875,
+        "heading": "R709 *No other wireless allowed. No form of wireless communication shall be used to communicate to,"
+      },
+      "range": {
+        "start_page": 143,
+        "end_page": 143
+      }
+    },
+    "R710": {
+      "start": {
+        "page": 143,
+        "x0": 36.0,
+        "y_center": 651.0109252929688,
+        "heading": "R710 *Use assigned Wi-Fi bands and/or channels if requested. Teams may be asked by the Event Director to"
+      },
+      "range": {
+        "start_page": 143,
+        "end_page": 143
+      }
+    },
+    "R711": {
+      "start": {
+        "page": 144,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R711 *ROBOT CONTROLLER must be visible for inspection. The ROBOT CONTROLLER device must be"
+      },
+      "range": {
+        "start_page": 144,
+        "end_page": 144
+      }
+    },
+    "R712": {
+      "start": {
+        "page": 144,
+        "x0": 36.0,
+        "y_center": 329.3609619140625,
+        "heading": "R712 *Only specified modifications to core control system devices permitted. The DRIVER STATION device"
+      },
+      "range": {
+        "start_page": 144,
+        "end_page": 145
+      }
+    },
+    "R713": {
+      "start": {
+        "page": 145,
+        "x0": 36.0,
+        "y_center": 169.7309799194336,
+        "heading": "R713 *Always keep control system device software up to date. The following table lists the recommended"
+      },
+      "range": {
+        "start_page": 145,
+        "end_page": 145
+      }
+    },
+    "R714": {
+      "start": {
+        "page": 146,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R714 *USB is for vision. Only the following devices may be connected to the ROBOT control system using"
+      },
+      "range": {
+        "start_page": 146,
+        "end_page": 146
+      }
+    },
+    "R715": {
+      "start": {
+        "page": 146,
+        "x0": 36.0,
+        "y_center": 181.7309799194336,
+        "heading": "R715 *Use only supported USB vision. Only single image sensor vision devices that are natively supported by"
+      },
+      "range": {
+        "start_page": 146,
+        "end_page": 146
+      }
+    },
+    "R716": {
+      "start": {
+        "page": 146,
+        "x0": 36.0,
+        "y_center": 405.44097900390625,
+        "heading": "R716 *Recording devices are okay. Self-contained video recording devices (GoPro or similar) are allowed"
+      },
+      "range": {
+        "start_page": 146,
+        "end_page": 146
+      }
+    },
+    "R717": {
+      "start": {
+        "page": 146,
+        "x0": 36.0,
+        "y_center": 454.9009704589844,
+        "heading": "R717 *Lasers must be safe. Lasers are not allowed unless they meet all of the following criteria:"
+      },
+      "range": {
+        "start_page": 146,
+        "end_page": 146
+      }
+    },
+    "R718": {
+      "start": {
+        "page": 146,
+        "x0": 36.0,
+        "y_center": 524.98095703125,
+        "heading": "R718 *Configure Android devices appropriately. ROBOT CONTROLLER and DRIVER STATION Android"
+      },
+      "range": {
+        "start_page": 146,
+        "end_page": 146
+      }
+    },
+    "R801": {
+      "start": {
+        "page": 147,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "R801 *No Pneumatics. No closed air systems are allowed on FIRST Tech Challenge ROBOTS except for"
+      },
+      "range": {
+        "start_page": 147,
+        "end_page": 147
+      }
+    },
+    "R901": {
+      "start": {
+        "page": 148,
+        "x0": 36.0,
+        "y_center": 120.41097259521484,
+        "heading": "R901 *Use only a specified DRIVER STATION device. The OPERATOR CONSOLE may only have one"
+      },
+      "range": {
+        "start_page": 148,
+        "end_page": 148
+      }
+    },
+    "R902": {
+      "start": {
+        "page": 148,
+        "x0": 36.0,
+        "y_center": 267.9209899902344,
+        "heading": "R902 *The OPERATOR CONSOLE must make the touch screen accessible. The OPERATOR CONSOLE, the"
+      },
+      "range": {
+        "start_page": 148,
+        "end_page": 148
+      }
+    },
+    "R903": {
+      "start": {
+        "page": 148,
+        "x0": 36.0,
+        "y_center": 361.04095458984375,
+        "heading": "R903 *Only limited gamepads are supported. The OPERATOR CONSOLE may have no more than 2"
+      },
+      "range": {
+        "start_page": 148,
+        "end_page": 149
+      }
+    },
+    "R904": {
+      "start": {
+        "page": 149,
+        "x0": 36.0,
+        "y_center": 306.3209533691406,
+        "heading": "R904 *OPERATOR CONSOLE physical requirements. The OPERATOR CONSOLE, including all power sources,"
+      },
+      "range": {
+        "start_page": 149,
+        "end_page": 149
+      }
+    },
+    "R905": {
+      "start": {
+        "page": 149,
+        "x0": 36.0,
+        "y_center": 445.42095947265625,
+        "heading": "R905 *ROBOT application wireless communication only. Other than the connection controlled by the ROBOT"
+      },
+      "range": {
+        "start_page": 149,
+        "end_page": 149
+      }
+    },
+    "R906": {
+      "start": {
+        "page": 149,
+        "x0": 36.0,
+        "y_center": 613.5709228515625,
+        "heading": "R906 *No unsafe or unfair OPERATOR CONSOLES. OPERATOR CONSOLES shall not be made using"
+      },
+      "range": {
+        "start_page": 149,
+        "end_page": 150
+      }
+    },
+    "T201": {
+      "start": {
+        "page": 151,
+        "x0": 36.0,
+        "y_center": 323.48095703125,
+        "heading": "T201 *The Head REFEREE has ultimate and final authority regarding gameplay during the event. The Head"
+      },
+      "range": {
+        "start_page": 151,
+        "end_page": 151
+      }
+    },
+    "T202": {
+      "start": {
+        "page": 151,
+        "x0": 36.0,
+        "y_center": 657.1309204101562,
+        "heading": "T202 *Only REFEREES can declare a ROBOT DISABLED. A ROBOT is only considered DISABLED once a"
+      },
+      "range": {
+        "start_page": 151,
+        "end_page": 151
+      }
+    },
+    "T203": {
+      "start": {
+        "page": 152,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "T203 *The Event Director has ultimate authority regarding all non-gameplay decisions during an event. The"
+      },
+      "range": {
+        "start_page": 152,
+        "end_page": 152
+      }
+    },
+    "T204": {
+      "start": {
+        "page": 152,
+        "x0": 36.0,
+        "y_center": 254.36099243164062,
+        "heading": "T204 *All competition FIELDS at an event must be consistent with each other. Events which have multiple"
+      },
+      "range": {
+        "start_page": 152,
+        "end_page": 152
+      }
+    },
+    "T205": {
+      "start": {
+        "page": 152,
+        "x0": 36.0,
+        "y_center": 407.9609680175781,
+        "heading": "T205 *During optional FIELD measurement and calibration time(s) ROBOTS may not practice on the FIELD."
+      },
+      "range": {
+        "start_page": 152,
+        "end_page": 153
+      }
+    },
+    "T206": {
+      "start": {
+        "page": 153,
+        "x0": 36.0,
+        "y_center": 207.29097747802734,
+        "heading": "T206 *No team timeouts, but MATCHES have breaks. Teams playing in back-to-back MATCHES will have a"
+      },
+      "range": {
+        "start_page": 153,
+        "end_page": 153
+      }
+    },
+    "T207": {
+      "start": {
+        "page": 153,
+        "x0": 36.0,
+        "y_center": 453.94097900390625,
+        "heading": "T207 *MATCHES are played in order Qualification and Playoff MATCHES will be played in numerical order"
+      },
+      "range": {
+        "start_page": 153,
+        "end_page": 153
+      }
+    },
+    "T301": {
+      "start": {
+        "page": 154,
+        "x0": 36.0,
+        "y_center": 120.41097259521484,
+        "heading": "T301 *Replays are allowed, but rare. MATCH replays are only allowed in extreme circumstances due to an"
+      },
+      "range": {
+        "start_page": 154,
+        "end_page": 155
+      }
+    },
+    "T302": {
+      "start": {
+        "page": 155,
+        "x0": 36.0,
+        "y_center": 221.8109359741211,
+        "heading": "T302 *Replays will replicate the conditions of the original MATCH. All reasonable effort is made to create"
+      },
+      "range": {
+        "start_page": 155,
+        "end_page": 155
+      }
+    },
+    "T401": {
+      "start": {
+        "page": 156,
+        "x0": 36.0,
+        "y_center": 97.25093841552734,
+        "heading": "T401 *1 STUDENT, 1 Head REFEREE. A team may only address the Head REFEREE with 1 STUDENT. The"
+      },
+      "range": {
+        "start_page": 156,
+        "end_page": 156
+      }
+    },
+    "T402": {
+      "start": {
+        "page": 156,
+        "x0": 36.0,
+        "y_center": 167.2109603881836,
+        "heading": "T402 *MATCH questions must be timely. If a team would like to clarify or dispute the results of a MATCH"
+      },
+      "range": {
+        "start_page": 156,
+        "end_page": 156
+      }
+    },
+    "T403": {
+      "start": {
+        "page": 156,
+        "x0": 36.0,
+        "y_center": 399.44097900390625,
+        "heading": "T403 *Keep questions factual and constructive. Teams coming to the Question Box should think through"
+      },
+      "range": {
+        "start_page": 156,
+        "end_page": 156
+      }
+    },
+    "T601": {
+      "start": {
+        "page": 159,
+        "x0": 36.0,
+        "y_center": 440.6209716796875,
+        "heading": "T601 *DISQUALIFICATION applies only to the DISQUALIFIED team in Qualifications. During Qualification"
+      },
+      "range": {
+        "start_page": 159,
+        "end_page": 159
+      }
+    },
+    "T701": {
+      "start": {
+        "page": 160,
+        "x0": 36.0,
+        "y_center": 198.89095306396484,
+        "heading": "T701 *Send a STUDENT representative. Each team must choose and send a STUDENT team representative"
+      },
+      "range": {
+        "start_page": 160,
+        "end_page": 160
+      }
+    },
+    "T702": {
+      "start": {
+        "page": 160,
+        "x0": 36.0,
+        "y_center": 344.0009765625,
+        "heading": "T702 *Declining teams cannot be picked. An ALLIANCE CAPTAIN may not invite a team that has declined"
+      },
+      "range": {
+        "start_page": 160,
+        "end_page": 160
+      }
+    },
+    "T703": {
+      "start": {
+        "page": 160,
+        "x0": 36.0,
+        "y_center": 454.06097412109375,
+        "heading": "T703 *There are no backup teams in Playoff MATCHES. An ALLIANCE may not request a backup team in a"
+      },
+      "range": {
+        "start_page": 160,
+        "end_page": 160
+      }
+    },
+    "T704": {
+      "start": {
+        "page": 160,
+        "x0": 36.0,
+        "y_center": 529.0609130859375,
+        "heading": "T704 *During Playoff MATCHES, teams may have more ARENA access. At the direction of the Event"
+      },
+      "range": {
+        "start_page": 160,
+        "end_page": 160
+      }
+    },
+    "T705": {
+      "start": {
+        "page": 160,
+        "x0": 36.0,
+        "y_center": 647.6509399414062,
+        "heading": "T705 *Multiple DISQUALIFICATION is handled specially. During Playoff MATCHES, 1 or more ALLIANCE"
+      },
+      "range": {
+        "start_page": 160,
+        "end_page": 161
+      }
+    },
+    "T801": {
+      "start": {
+        "page": 168,
+        "x0": 36.0,
+        "y_center": 399.44097900390625,
+        "heading": "T801 *Divisions will use the same size playoff brackets. The number of playoff ALLIANCES will be"
+      },
+      "range": {
+        "start_page": 168,
+        "end_page": 168
+      }
+    },
+    "T802": {
+      "start": {
+        "page": 168,
+        "x0": 36.0,
+        "y_center": 442.9009704589844,
+        "heading": "T802 *Dual-Division awards are given at the event level. All awards are judged and awarded at the"
+      },
+      "range": {
+        "start_page": 168,
+        "end_page": 168
+      }
+    },
+    "T803": {
+      "start": {
+        "page": 168,
+        "x0": 36.0,
+        "y_center": 471.94097900390625,
+        "heading": "T803 *Dual-Division award counts are based on total teams. The number of awards distributed at a Dual"
+      },
+      "range": {
+        "start_page": 168,
+        "end_page": 168
+      }
+    },
+    "C301": {
+      "start": {
+        "page": 174,
+        "x0": 36.0,
+        "y_center": 236.3309555053711,
+        "heading": "C301 *Replays use the same ROBOTS. If a Playoff MATCH must be replayed, the 2 ROBOTS used in the"
+      },
+      "range": {
+        "start_page": 174,
+        "end_page": 174
+      }
+    },
+    "special-end-rule": {
+      "start": {
+        "page": 174,
+        "x0": 36.0,
+        "y_center": 256.3309555053711,
+        "heading": "Dummy rule"
+      },
+      "range": {
+        "start_page": 999,
+        "end_page": 999
+      }
+    }
+  },
+  "unresolved": []
+}
