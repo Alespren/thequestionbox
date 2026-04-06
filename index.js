@@ -16,15 +16,17 @@ app.get('/', (req, res) => {
 })
 
 app.get('/rule/:ruleNum', async (req, res, next) => {
-  if (!isValidRule(req.params.ruleNum))
+  if (!isValidRule(req.params.ruleNum)) {
     next('route')
+    return
+  }
 
   res.type('png')
   res.send(await getRuleImage(req.params.ruleNum))
 })
 
 app.use((req, res, next) => {
-  res.status(404).send("Sorry, can't find that!")
+  res.status(404).send("")
 })
 
 app.listen(port, () => {
@@ -48,7 +50,7 @@ async function getRuleImage(ruleNum) {
 
   const page = await document.getPage(startPageNum)
   const viewport = page.getViewport({ scale })
-  
+
   const startY = parseFloat(rule.start.y_center) - 15
 
   // if this rule ends on the same page as the next rule, use the start position of the next rule.
@@ -56,7 +58,7 @@ async function getRuleImage(ruleNum) {
   const endY = (endPageNum != parseInt(nextRule.range.start_page)) ? 0 : parseFloat(nextRule.start.y_center)
 
   // TODO remove hardcoded values
-  viewport.transform = [ 2, 0, 0, -2, 0, 1584 - startY * scale]
+  viewport.transform = [2, 0, 0, -2, 0, 1584 - startY * scale]
   viewport.height = (endY * scale) - (startY * scale);
 
   const canvas = createCanvas(viewport.width, viewport.height)
