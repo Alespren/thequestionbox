@@ -1,0 +1,3 @@
+allowBuilds:
+  deasync: true
+  modern-syslog: true
