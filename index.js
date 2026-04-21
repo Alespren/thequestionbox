@@ -14,18 +14,21 @@ app.get("/", (req, res) => {
 app.use(manualConfig.assetsRoute, express.static(manualConfig.assetsDir));
 
 app.get("/rule/:ruleNum", async (req, res, next) => {
-  if (!isValidRule(req.params.ruleNum)) {
-    next("route");
-    return;
+  try {
+    res.type("png");
+    res.send(
+      await getRuleImage(req.params.ruleNum, {
+        manualPath: manualConfig.path,
+        baseHref: manualAssetsBaseUrl,
+      }),
+    );
+  } catch (error) {
+    if (error?.message?.startsWith("Rule not found:")) {
+      res.status(404).send("");
+      return;
+    }
+    next(error);
   }
-
-  res.type("png");
-  res.send(
-    await getRuleImage(req.params.ruleNum, {
-      manualPath: manualConfig.path,
-      baseHref: manualAssetsBaseUrl,
-    }),
-  );
 });
 
 app.use((req, res, next) => {
@@ -35,7 +38,3 @@ app.use((req, res, next) => {
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
-
-function isValidRule(ruleNum) {
-  return true;
-}
