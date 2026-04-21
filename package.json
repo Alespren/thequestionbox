@@ -11,9 +11,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.32.1",
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.97",
     "express": "^5.2.1",
-    "html-to-image": "^1.11.13",
     "node-html-parser": "^7.1.0",
     "wkhtmltoimage": "^0.1.5"
   },

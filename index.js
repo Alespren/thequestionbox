@@ -1,7 +1,6 @@
 import express from "express";
 import fs from "node:fs/promises";
 import path from "node:path";
-import { createCanvas, loadImage } from "@napi-rs/canvas";
 import { parse } from "node-html-parser";
 import wkhtmltoimage from "wkhtmltoimage";
 
