@@ -7,8 +7,8 @@ import wkhtmltoimage from "wkhtmltoimage";
 const app = express();
 const port = 3000;
 
-const manualPath = "./DECODE_Competition_Manual_TU30.htm";
-const manualAssetsDir = path.resolve("./DECODE_Competition_Manual_TU30_files");
+const manualPath = "./DECODE_Competition_Manual_TU32.htm";
+const manualAssetsDir = path.resolve("./DECODE_Competition_Manual_TU32_files");
 const manualAssetsBaseUrl = `http://localhost:${port}/`;
 
 app.get("/", (req, res) => {
@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
 });
 
 app.use(
-  "/DECODE_Competition_Manual_TU30_files",
+  "/DECODE_Competition_Manual_TU32_files",
   express.static(manualAssetsDir),
 );
 
